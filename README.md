@@ -1,0 +1,2 @@
+# redirectors
+Create AWS redirectors. 
